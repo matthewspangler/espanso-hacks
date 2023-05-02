@@ -1,0 +1,9 @@
+[submodule "chatgpt-expander"]
+	path = chatgpt-expander
+	url = https://github.com/matthewspangler/chatgpt-expander
+[submodule "bash-expander"]
+	path = bash-expander
+	url = https://github.com/matthewspangler/bash-expander
+[submodule "python-expander"]
+	path = python-expander
+	url = https://github.com/matthewspangler/python-expander

@@ -7,3 +7,6 @@
 [submodule "python-expander"]
 	path = python-expander
 	url = https://github.com/matthewspangler/python-expander
+[submodule "k8s-expander"]
+	path = k8s-expander
+	url = https://github.com/matthewspangler/k8s-expander

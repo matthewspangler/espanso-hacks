@@ -1,5 +1,5 @@
 # About
-[Espanso is a text expander](), it detects when you type a keyword and replaces it when you're typing.
+[Espanso](https://espanso.org/) is a text expander, it detects when you type a keyword and replaces it when you're typing.
 
 This repository contains useful packages I've written for Espanso.
 

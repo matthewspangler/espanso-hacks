@@ -14,7 +14,7 @@ Quickly run Python snippets and have the output pasted back into your text field
 ## bash-expander
 Quickly run Bash/shell snippets and have the output pasted back into your text field.
 
-## kubernetes-expander
+## k8s-expander
 Quickly type Kubernetes commands using shorter aliases.
 
 ## ansible-expander

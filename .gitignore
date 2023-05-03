@@ -1,0 +1,17 @@
+# Using a gitignore whitelist is necessary because I have secrets + work info in my Espanso dirs. 
+# My Espanso dirs are symlinked back to my dotfiles and I don't want anything private getting uploaded accidentally.
+
+*
+!*/
+
+# track this file
+!.gitignore
+
+# whitelist packages
+!bash-expander/
+!python-expander/
+!k8s-expander/
+!chatgpt-expander/
+!LICENSE
+!.gitmodules
+!README.md
